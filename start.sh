@@ -63,7 +63,7 @@ echo ""
 sleep 1
 echo ""
 echo ""
-echo -e "\033[1;33m Open the page http://localhost/ in your browser"
+echo -e "\033[1;33m Open the page http://localhost:8080/ in your browser"
 echo ""
 echo -e $'\e[1;34m::TGBA::\e[0m\033[1;90m #the first part of the installation is complete\e[0m'
 echo ""
