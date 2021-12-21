@@ -1,6 +1,6 @@
 <div align="center">
 
-# tgba
+# TGBA
 ::launching a telegram bot on the Android system through Termux::
 
 </div>
