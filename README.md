@@ -17,7 +17,7 @@ Launching a telegram bot on your own NGINX & PHP-FPM server in Android system th
 ---
 ### Instructions:
 >**Launching a TG Bot in the Android** <br>
-First, install app Termux in [Google Play](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US). After in Termux, we writing commands: <br>
+First, install app Termux in [F-Droid](https://f-droid.org/en/packages/com.termux/). After in Termux, we writing commands: <br>
 - `pkg update && pkg upgrade`
 - `pkg install git`
 - `git clone https://github.com/7ife/tgba`
