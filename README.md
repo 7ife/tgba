@@ -26,8 +26,7 @@ First, install app Termux in [F-Droid](https://f-droid.org/en/packages/com.termu
 
 ###### continuation in development
 
->**Tested working on Android:** `6.0`-[not yet](#continuation-in-development "stably SAMSUNG A5"), `7.0`-[not yet](#continuation-in-development "stably MEIZU PRO7"), `11.0`-[not yet](#continuation-in-development "stably SAMSUNG S10 Lite") <br>
-device: SAMSUNG A5, MEIZU PRO7, SAMSUNG S10 Lite
+>**Tested working on Android:** `DNS problem doesn't work`
 
 
 [Top](#top "Back to top")
