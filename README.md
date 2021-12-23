@@ -27,7 +27,7 @@ First, install app Termux in [F-Droid](https://f-droid.org/en/packages/com.termu
 ###### continuation in development
 
 >**Tested working on Android:** `6.0`-[ok](#continuation-in-development "stably SAMSUNG A5"), `7.0`-[ok](#continuation-in-development "stably MEIZU PRO7"), `11.0`-[ok](#continuation-in-development "stably SAMSUNG S10 Lite") <br>
-device: MEIZU PRO7, SAMSUNG S10 Lite
+device: MEIZU PRO7, SAMSUNG S10 Lite <br>
 SAMSUNG A5 `Android 6.0` To make the bot work on an old Android, you need to install app Termux in [Google Play](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US)
 
 [Top](#top "Back to top")
