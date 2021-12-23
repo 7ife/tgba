@@ -45,7 +45,7 @@ fi
 echo -e ""
 echo -e " \033[1;93m successful"
 echo ""
-echo -e $'\e[1;34m::TGBA::\e[0m\e[1;32m #Installing dependencies and Bot launch \e[0m'
+echo -e $'\e[1;34m::TGBA::\e[0m\e[1;32m #Installing dependencies and Bot launch\e[0m'
 sleep 2
 npm i
 sleep 1
