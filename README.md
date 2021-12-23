@@ -1,6 +1,6 @@
 <div align="center">
 
-![TGBA](https://i.fiery.me/upN1Q.png)
+![TGBA](https://raw.githubusercontent.com/7ife/7ife.github.io/master/data/tgba-logo.png)
   
 # TGBA
 ::launching a telegram bot on the Android system through Termux::
