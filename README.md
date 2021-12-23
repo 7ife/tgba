@@ -2,7 +2,6 @@
 
 ![TGBA](https://raw.githubusercontent.com/7ife/7ife.github.io/master/data/tgba-logo.png)
   
-# TGBA
 ::launching a telegram bot on the Android system through Termux::
 ###### Bot for feedback. If you have a store or any business project in which feedback is needed, you can implement it using this bot.
   
