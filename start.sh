@@ -52,7 +52,7 @@ sleep 2
 echo -e " \033[1;93m Bot launch"
 echo ""
 sleep 1
-npm start
+node index.js
 echo ""
 sleep 2
 echo -e $'\e[1;34m::TGBA::\e[0m\e[1;32m #Сongratulations, now you can check your bot\e[0m'
