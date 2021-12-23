@@ -16,8 +16,7 @@ Launching a telegram bot in Android via Termux. You don't have to pay for the do
 
 ---
 
-###### before starting the installation, register the bot `@BotFather` for get a  <bot_token> [more detailed](https://core.telegram.org/bots#3-how-do-i-create-a-bot)  <br>
-and need get a User ID `@userinfobot` for administration bot
+###### before starting the installation, register the bot `@BotFather` for get a  <bot_token> [more detailed](https://core.telegram.org/bots#3-how-do-i-create-a-bot) <br> and need get a User ID `@userinfobot` for administration bot
 
 ### Instructions:
 >**Launching a TG Bot in the Android** <br>
