@@ -6,7 +6,7 @@
 </div>
 
 ### General Information:
-Launching a telegram bot on your own NGINX & PHP-FPM server in Android system through Termux. You don't have to pay for the domain and hosting, we'll run it in Localhost in your Android device.
+Launching a telegram bot in Android via Termux. You don't have to pay for the domain and hosting, we'll run it in NodeJS in your Android device.
 
 <div align="right">
 
