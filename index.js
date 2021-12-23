@@ -6,15 +6,40 @@ let config = {
     "token": "YOUR_TOKEN", // Bot token
     "admin": 034567888 // bot owner id
 };
+const CHAT_ID = 034567888 ; // bot owner id
 // Creating a bot object
 const bot = new Telegraf(config.token, {
         // If you need to go through a proxy, specify it: user, pass, host, port
         // telegram: { agent: new HttpsProxyAgent('http://user:pass@host:port') }
     }
 );
+
+function getHiddenLink(url, parse_mode = "markdown") {
+  const emptyChar = "‎";
+
+  switch (parse_mode) {
+    case "HTML":
+      return `<a href="${url}">${emptyChar}</a>`;
+    default:
+      throw new Error("invalid parse_mode");
+  }
+}
+
+// message to successfully installed
+bot.telegram.sendMessage(
+  CHAT_ID,
+  `
+<b>Great, you have successfully installed a feedback bot!</b>
+${getHiddenLink("https://raw.githubusercontent.com/7ife/7ife.github.io/master/data/tgba-logo.png", "HTML")}
+`,
+  {
+    parse_mode: "HTML",
+  }
+);
+
 // Text Settings
 let replyText = {
-    "helloAdmin": "Great, you have successfully installed a feedback bot. Now share your bot and wait for messages.",
+    "helloAdmin": "Now share your bot and wait for messages.",
     "helloUser":  "Greetings, send me a message. I will try to answer as soon as possible.",
     "replyWrong": "Use the Reply function to reply to the user."
 };
