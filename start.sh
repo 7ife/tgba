@@ -36,12 +36,11 @@ fi
 echo -e ""
 echo -e " \033[1;93m successful\e[0m"
 echo -e "\033[1;96m ‎"
-sleep 4
 #Enter admin id
-search="admin-id-here"
+search="034567888"
 read -p "#Enter telegram id - To get it, use @userinfobot >>> " adminId
 if [[ $search != "" && $adminId != "" ]]; then
-sed -i "s/$search/$botToken/gi" index.js
+sed -i "s/$search/$adminId/gi" index.js
 fi
 echo -e ""
 echo -e " \033[1;93m successful"
