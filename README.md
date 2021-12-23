@@ -26,7 +26,7 @@ First, install app Termux in [F-Droid](https://f-droid.org/en/packages/com.termu
 
 ###### continuation in development
 
->**Tested working on Android:** `DNS problem doesn't work`
+>**Tested working on Android:** 
 
 
 [Top](#top "Back to top")
