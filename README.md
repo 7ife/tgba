@@ -7,7 +7,7 @@
 
 ### General Information:
 Launching a telegram bot in Android via Termux. You don't have to pay for the domain and hosting, we'll run it in NodeJS in your Android device. <br> 
-By the way, bot for feedback. If you have a store or any business project in which feedback is needed, you can implement it using this bot.
+###### By the way, bot for feedback. If you have a store or any business project in which feedback is needed, you can implement it using this bot.
 
 <div align="right">
 
