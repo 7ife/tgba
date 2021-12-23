@@ -18,7 +18,7 @@ Launching a telegram bot in Android via Termux. You don't have to pay for the do
 ### Instructions:
 >**Launching a TG Bot in the Android** <br>
 First, install app Termux in [F-Droid](https://f-droid.org/en/packages/com.termux/). After in Termux, we writing commands: <br>
-- `pkg update && pkg upgrade`
+- `pkg upd`
 - `pkg install git`
 - `git clone https://github.com/7ife/tgba`
 - `cd tgba`
