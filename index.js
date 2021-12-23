@@ -4,7 +4,7 @@ const Telegraf = require('telegraf');
 // General settings
 let config = {
     "token": "YOUR_TOKEN", // Bot token
-    "admin": 034567888 // bot owner id
+    "admin": admin-id-here // bot owner id
 };
 // Creating a bot object
 const bot = new Telegraf(config.token, {
