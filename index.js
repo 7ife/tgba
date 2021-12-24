@@ -75,4 +75,6 @@ bot.on('message', (ctx) => {
     }
 });
 // bot launch
-bot.launch();
+bot.launch()
+    .then(() => console.log("Bot Launched"))
+    .catch(console.log);
