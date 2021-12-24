@@ -45,16 +45,13 @@ fi
 echo -e ""
 echo -e " \033[1;93m successful"
 echo ""
-echo -e $'\e[1;34m::TGBA::\e[0m\e[1;32m #Installing dependencies and Bot launch\e[0m'
+echo -e $'\e[1;34m::TGBA::\e[0m\e[1;32m #Installing dependencies\e[0m'
 sleep 2
 npm i
 sleep 1
-echo -e " \033[1;93m Сongratulations, now you can check your bot"
+echo -e " \033[1;93m Start Bot"
 echo ""
 npm start
-echo ""
-sleep 2
-echo -e $'\e[1;34m::TGBA::\e[0m\e[0;31m #if you see this message, then the installation did not work, be attentive to the steps, delete and install the termux again and repeat the steps\e[0m'
 echo ""
 while true
 do
