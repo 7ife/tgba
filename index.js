@@ -78,3 +78,6 @@ bot.on('message', (ctx) => {
 bot.launch()
     .then(() => console.log("Bot Launched"))
     .catch(console.log);
+// Enable graceful stop
+process.once('SIGINT', () => bot.stop('SIGINT'))
+process.once('SIGTERM', () => bot.stop('SIGTERM')) 
